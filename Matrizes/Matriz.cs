@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 
-
 namespace Biblioteca_Matriz
 {
     class Matriz
